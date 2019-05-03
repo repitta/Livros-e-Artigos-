@@ -7,3 +7,5 @@ Resumo dos principais tópicos de estudos para Ciência de Dados
 
 2. As três linhas de pesquisa em Ciência de Dados Educacionais: Learning Analytics, Academic Analytics e Data Mining. Segue o link do google docs https://docs.google.com/document/d/1ur-UpJqKZYEuY7Q02M4chuXRohmpadRWwYrQ9iXHtGM/edit?usp=sharing
 
+3. Descoberta do Conhecimento em Base de Dados: Pré-processamento, mineração de Dados e visualização de dados. Segue o link do google docs https://docs.google.com/document/d/16c-5NUPuWKuvK9V-aATdEEARX8colx7MKRUjash2KWM/edit
+
